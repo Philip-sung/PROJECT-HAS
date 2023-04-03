@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  MainFrm.cpp
+  HASView.cpp
+  HASDView.cpp
+e:\a-prima\utility\재무관리\has ver.18.0.05\has\hasdview.cpp(1183): warning C4244: '=': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\a-prima\utility\재무관리\has ver.18.0.05\has\hasdview.cpp(1184): warning C4244: '=': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\a-prima\utility\재무관리\has ver.18.0.05\has\hasdview.cpp(1185): warning C4244: '=': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HASDoc.cpp
+  HASCView.cpp
+e:\a-prima\utility\재무관리\has ver.18.0.05\has\hascview.cpp(696): warning C4244: '=': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\a-prima\utility\재무관리\has ver.18.0.05\has\hascview.cpp(697): warning C4244: '=': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HASBView.cpp
+e:\a-prima\utility\재무관리\has ver.18.0.05\has\hasbview.cpp(328): warning C4244: '=': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\a-prima\utility\재무관리\has ver.18.0.05\has\hasbview.cpp(493): warning C4244: '=': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HAS.cpp
+  코드를 생성하고 있습니다...
+  HAS.vcxproj -> E:\A-Prima\Utility\재무관리\HAS Ver.18.0.05\x64\Debug\HAS.exe
+  HAS.vcxproj -> E:\A-Prima\Utility\재무관리\HAS Ver.18.0.05\x64\Debug\HAS.pdb (Partial PDB)
